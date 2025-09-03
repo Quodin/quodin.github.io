@@ -1,11 +1,11 @@
 {
-    "name": "safety",
-    "short_name": "safety",
+    "name": "Groom Lounge",
+    "short_name": "Groom Lounge",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Safety Management System",
+    "description": "A new Quodin project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
